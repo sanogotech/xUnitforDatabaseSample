@@ -7,7 +7,7 @@
 - https://www.apexsql.com/sql-tools-unit-test.aspx?utm_source=sqlshack&utm_campaign=unit-test&utm_medium=native_link&utm_content=sql-shack
 
 
-##  TSQLUnit  or  DBFit // Fitness
+##  TSQLUnit  or  DBFit // Fitness  -- Slim /Fit
 - https://mermet.users.greyc.fr/Enseignement/CoursPDF/fitnesse.pdf
 - http://dbfit.github.io/dbfit/docs/dbfit-features.html
 - http://dbfit.github.io/dbfit/docs/reference.html#connect
