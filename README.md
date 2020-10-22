@@ -6,6 +6,9 @@
 - https://solutioncenter.apexsql.com/how-to-create-and-run-sql-server-database-unit-tests-automatically/
 - https://www.apexsql.com/sql-tools-unit-test.aspx?utm_source=sqlshack&utm_campaign=unit-test&utm_medium=native_link&utm_content=sql-shack
 
+## Using @Procedure annotation to call database stored procedure
+- https://www.logicbig.com/tutorials/spring-framework/spring-data/stored-procedure.html
+
 ## SQL Test Coverage
 - https://the.agilesql.club/SQLCover
 - https://the.agilesql.club/SQLCover/download.php
