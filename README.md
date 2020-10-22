@@ -6,8 +6,12 @@
 - https://solutioncenter.apexsql.com/how-to-create-and-run-sql-server-database-unit-tests-automatically/
 - https://www.apexsql.com/sql-tools-unit-test.aspx?utm_source=sqlshack&utm_campaign=unit-test&utm_medium=native_link&utm_content=sql-shack
 
-## sql-test-spring-app : @Sql Example in Spring Test
+## SQL Test Coverage
+- https://the.agilesql.club/SQLCover
+- https://the.agilesql.club/SQLCover/download.php
 
+## sql-test-spring-app : @Sql Example in Spring Test
+- https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 - https://www.concretepage.com/spring-5/sql-example-spring-test
 - https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/testing.html#testcontext-executing-sql-declaratively
 
@@ -22,8 +26,15 @@ We will also go through using @SqlConfig, @SqlMergeMode and @SqlGroup annotation
 public class SqlTest {
     ------
 } 
+```
 
+##
+- https://www.logicbig.com/tutorials/spring-framework/spring-data/stored-procedure.html
 
+## Spring Data  MS SQL  microsoft-sql-server
+- https://www.javaguides.net/2019/01/spring-boot-microsoft-sql-server-jpa-hibernate-crud-restful-api-tutorial.html
 
+## Reverse Database --- ORM
+- https://stackoverflow.com/questions/37391498/how-to-reverse-engineer-a-database-and-generate-code-using-spring-boot-and-jooq
 
 
