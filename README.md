@@ -28,6 +28,9 @@ public class SqlTest {
 } 
 ```
 
+##
+- https://www.logicbig.com/tutorials/spring-framework/spring-data/stored-procedure.html
+
 ## Spring Data  MS SQL  microsoft-sql-server
 - https://www.javaguides.net/2019/01/spring-boot-microsoft-sql-server-jpa-hibernate-crud-restful-api-tutorial.html
 
