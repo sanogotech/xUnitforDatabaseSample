@@ -24,7 +24,7 @@ We will also go through using @SqlConfig, @SqlMergeMode and @SqlGroup annotation
 public class SqlTest {
     ------
 } 
-
+```
 
 ## Reverse Database --- ORM
 - https://stackoverflow.com/questions/37391498/how-to-reverse-engineer-a-database-and-generate-code-using-spring-boot-and-jooq
