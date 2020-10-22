@@ -6,10 +6,12 @@
 - https://solutioncenter.apexsql.com/how-to-create-and-run-sql-server-database-unit-tests-automatically/
 - https://www.apexsql.com/sql-tools-unit-test.aspx?utm_source=sqlshack&utm_campaign=unit-test&utm_medium=native_link&utm_content=sql-shack
 
-
+## SQL Test Coverage
+- https://the.agilesql.club/SQLCover
+- https://the.agilesql.club/SQLCover/download.php
 
 ## sql-test-spring-app : @Sql Example in Spring Test
-
+- https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 - https://www.concretepage.com/spring-5/sql-example-spring-test
 - https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/testing.html#testcontext-executing-sql-declaratively
 
