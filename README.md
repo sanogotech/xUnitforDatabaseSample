@@ -6,6 +6,10 @@
 - https://solutioncenter.apexsql.com/how-to-create-and-run-sql-server-database-unit-tests-automatically/
 - https://www.apexsql.com/sql-tools-unit-test.aspx?utm_source=sqlshack&utm_campaign=unit-test&utm_medium=native_link&utm_content=sql-shack
 
+
+##  TSQLUnit  or  DBFit
+- http://dbfit.github.io/dbfit/docs/reference.html#connect
+
 ## Using @Procedure annotation to call database stored procedure
 - https://www.logicbig.com/tutorials/spring-framework/spring-data/stored-procedure.html
 
