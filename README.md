@@ -1,5 +1,10 @@
 # xUnitforDatabaseSample
 
+## Docs
+- https://www.sqlshack.com/sql-unit-testing-best-practices/
+- https://the.agilesql.club/2016/04/sqlcover-code-coverage-for-sql-server-t-sql/
+- https://solutioncenter.apexsql.com/how-to-create-and-run-sql-server-database-unit-tests-automatically/
+-
 
 ## sql-test-spring-app : @Sql Example in Spring Test
 
