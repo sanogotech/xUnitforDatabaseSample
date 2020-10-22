@@ -14,6 +14,7 @@
 cd dbFit
 startFitnesse.bat
 http://localhost:8085/HelloWorld?properties
+http://localhost:8085/MyDemo?    #create new page
 ```
 
 ## Using @Procedure annotation to call database stored procedure
