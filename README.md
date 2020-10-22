@@ -9,6 +9,11 @@
 
 ##  TSQLUnit  or  DBFit
 - http://dbfit.github.io/dbfit/docs/reference.html#connect
+```
+cd dbFit
+startFitnesse.bat
+http://localhost:8085/HelloWorld?properties
+```
 
 ## Using @Procedure annotation to call database stored procedure
 - https://www.logicbig.com/tutorials/spring-framework/spring-data/stored-procedure.html
