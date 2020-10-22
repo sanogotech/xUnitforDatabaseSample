@@ -8,6 +8,7 @@
 
 
 ##  TSQLUnit  or  DBFit // Fitness
+- https://mermet.users.greyc.fr/Enseignement/CoursPDF/fitnesse.pdf
 - http://dbfit.github.io/dbfit/docs/dbfit-features.html
 - http://dbfit.github.io/dbfit/docs/reference.html#connect
 - http://fitnesse.org/FitNesse.UserGuide.TwoMinuteExample
